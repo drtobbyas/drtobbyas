@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @drtobbyas
-- 👀 I’m interested in JavaScript/Typscript, Node.js, Python, Vue.js, Nuxt.js, React, Next.js, Kafka, Celery, GraphQL, Docker, Kubernetes and more.
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,wasm,vue,nuxtjs,react,nextjs,nodejs,python,express,graphql,tailwind,py,git,docker,kubernetes,flutter,bash,gatsby,wordpress,redis,mongodb,postgres,mysql,linux,gcp,aws,azure,vscode)](https://skillicons.dev)
-- 🌱 I’m currently learning Blockchain Development
-- 💞️ I’m looking to collaborate on Node.js Backend, Frontend, DevOps and Blockchain DApps.
+- 👀 I’m a DevOps Specialist, I'm interested in Kubernetes, Docker, Bash,Linux, AI, LLM, TypeScript, Javascript, Python, Rust and Blockchain.
+- [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,bash,ts,js,nodejs,python,svelte,vue,nuxtjs,react,nextjs,express,tailwind,py,git,flutter,redis,mongodb,postgres,mysql,linux,gcp,aws,azure,vscode)](https://skillicons.dev)
+- 🌱 I’m currently exploring AI and Mechatronics
+- 💞️ I’m looking to collaborate on DevOps, SRE, Backend Architecture, Design and Development.
 - 📫 You can reach me on dr.tobbyas@gmail.com
 
 <!---
